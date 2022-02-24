@@ -1,0 +1,13 @@
+echo amazon flex driver link
+echo enter your name
+read name
+echo enter your passwd
+read passwd
+echo whats your car model
+read model
+echo which year
+read year
+echo do you have a valide driver's license
+read reply
+echo you are qualify to work for amazon flex driver
+echo we will contact you for more info. 
