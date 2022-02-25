@@ -10,4 +10,5 @@ read year
 echo do you have a valide driver's license
 read reply
 echo you are qualify to work for amazon flex driver
-echo we will contact you for more info. 
+echo we will contact you for more info.
+echo thanks  
